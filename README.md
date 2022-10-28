@@ -1,12 +1,13 @@
 ### Howdy 👋
 
 #### 🔭 I’m currently working on:
+- Createful Purpose
 - Masa HaChaim
-- Digital Creation Learning Hub
 
 #### ⚗️ I’m currently experimenting with:
 - Apostrophe CMS
 - Laravel 9
+- WordPress
 
 #### 📫 How to reach me:
 - cathzchen@gmail.com
