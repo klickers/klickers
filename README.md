@@ -1,13 +1,12 @@
 ### Howdy 👋
 
 #### 🔭 I’m currently working on:
-- Createful Purpose
-- Masa HaChaim
+- [Self-Made Degrees](https://selfmadedegrees.org)
+- [Bible Sleuths](https://biblesleuths.com)
 
 #### ⚗️ I’m currently experimenting with:
-- Apostrophe CMS
+- Astro
 - Laravel 9
-- WordPress
 
 #### 📫 How to reach me:
 - cathzchen@gmail.com
