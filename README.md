@@ -1,7 +1,9 @@
 ### Howdy 👋
 
+*last updated February 14, 2023*
+
 #### 🔭 I’m currently working on:
-- [February Code Challenge: 28 Websites in 28 Days](https://cathzchen.com/p/february-code-challenge-28-websites-in-28-days/) (2 of 28 websites completed)
+- [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (14 of 28 websites completed)
 
 #### 🎓 I’m currently learning through:
 - Meta’s [Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) Certification (5 of 9 courses finished)
