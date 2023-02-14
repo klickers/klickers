@@ -6,8 +6,8 @@
 - [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (14 of 28 websites completed)
 
 #### 🎓 I’m currently learning through:
-- Meta’s [Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) Certification (5 of 9 courses finished)
-- freeCodeCamp’s [Relational Databases (Beta)](https://www.freecodecamp.org/learn/relational-database/) Certification (7 of 14 modules finished)
+- Meta’s [Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) Certification (6 of 9 courses finished)
+- freeCodeCamp’s [Relational Databases (Beta)](https://www.freecodecamp.org/learn/relational-database/) Certification (9 of 14 modules finished)
 
 #### ⚗️ I’m currently experimenting with:
 - Astro
