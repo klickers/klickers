@@ -1,16 +1,18 @@
 ### Howdy 👋
 
-*last updated February 14, 2023*
+*last updated February 19, 2023*
 
 #### 🔭 I’m currently working on:
-- [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (14 of 28 websites completed)
+- [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (19 of 28 websites completed)
 
 #### 🎓 I’m currently learning through:
 - Meta’s [Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) Certification (6 of 9 courses finished)
-- freeCodeCamp’s [Relational Databases (Beta)](https://www.freecodecamp.org/learn/relational-database/) Certification (9 of 14 modules finished)
+- freeCodeCamp’s [Relational Databases (Beta)](https://www.freecodecamp.org/learn/relational-database/) Certification (10 of 14 modules finished)
 
 #### ⚗️ I’m currently experimenting with:
-- Astro
+- Astro.build
+- Typescript
+- Pocketbase
 - Laravel 9
 
 #### 📫 How to reach me:
