@@ -1,29 +1,26 @@
-### Howdy 👋
+### Hey there! 👋
 
-*last updated February 19, 2023*
+_last updated August 7, 2023_
 
-#### 🔭 I’m currently working on:
-- [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (19 of 28 websites completed)
-
-#### 🎓 I’m currently learning through:
-- Meta’s [Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) Certification (6 of 9 courses finished)
-- freeCodeCamp’s [Relational Databases (Beta)](https://www.freecodecamp.org/learn/relational-database/) Certification (10 of 14 modules finished)
+_Note to all: I just returned from a month-long (July) trip to Taiwan, volunteering as an English teacher, so please be patient as I get back on track with projects. Happy coding!_
 
 #### ⚗️ I’m currently experimenting with:
+
+- Ember JS
+- Apostrophe CMS
 - Astro.build
 - Typescript
 - Pocketbase
-- Laravel 9
 
 #### 📫 How to reach me:
+
 - [cathzchen@gmail.com](mailto:cathzchen@gmail.com)
-- [@czcpro](https://instagram.com/czcpro)
+- [@czccodes](https://instagram.com/czccodes)
 
 #### ✍️ My blog platforms:
+
 - [cathzchen.com](https://cathzchen.com)
 - [dev.cathzchen.com](https://dev.cathzchen.com)
-- [medium.com/cathzchen](https://medium.com/cathzchen)
-- [dev.to/cathzchen](https://dev.to/cathzchen)
 
 <!--
 **klickers/klickers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +33,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on:
+- 🎓 I’m currently learning through:
+
+- [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (19 of 28 websites completed)
+- [medium.com/cathzchen](https://medium.com/cathzchen)
+- [dev.to/cathzchen](https://dev.to/cathzchen)
 -->
