@@ -1,26 +1,18 @@
+_last updated July 4, 2024_
+
 ### Hey there! 👋
 
-_last updated August 7, 2023_
+I'm Catherine.  I work full-time as a web developer for an agency, do freelance work on the side, and busy myself with a variety of personal projects in my spare time.
 
-_Note to all: I just returned from a month-long (July) trip to Taiwan, volunteering as an English teacher, so please be patient as I get back on track with projects. Happy coding!_
+#### 🌱 I’m currently learning:
 
-#### ⚗️ I’m currently experimenting with:
-
-- Ember JS
-- Apostrophe CMS
-- Astro.build
-- Typescript
-- Pocketbase
+- [100 Days of Digital Art](https://cathzchen.com/series/100-days-of-digital-art) (not mobile friendly yet)
 
 #### 📫 How to reach me:
 
 - [cathzchen@gmail.com](mailto:cathzchen@gmail.com)
 - [@czccodes](https://instagram.com/czccodes)
-
-#### ✍️ My blog platforms:
-
 - [cathzchen.com](https://cathzchen.com)
-- [dev.cathzchen.com](https://dev.cathzchen.com)
 
 <!--
 **klickers/klickers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +31,12 @@ Here are some ideas to get you started:
 - [February Code Challenge: 28 Websites in 28 Days](https://challenges.cathzchen.com/2023/02/) (19 of 28 websites completed)
 - [medium.com/cathzchen](https://medium.com/cathzchen)
 - [dev.to/cathzchen](https://dev.to/cathzchen)
+
+#### ⚗️ I’m currently experimenting with:
+
+- Ember JS
+- Apostrophe CMS
+- Astro.build
+- Typescript
+- Pocketbase
 -->
