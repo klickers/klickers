@@ -4,10 +4,6 @@ _last updated July 4, 2024_
 
 I'm Catherine.  I work full-time as a web developer for an agency, do freelance work on the side, and busy myself with a variety of personal projects in my spare time.
 
-#### 🌱 I’m currently learning:
-
-- [100 Days of Digital Art](https://cathzchen.com/series/100-days-of-digital-art) (not mobile friendly yet)
-
 #### 📫 How to reach me:
 
 - [cathzchen@gmail.com](mailto:cathzchen@gmail.com)
