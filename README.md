@@ -1,8 +1,8 @@
-_last updated July 4, 2024_
+_last updated February 2, 2025_
 
 ### Hey there! 👋
 
-I'm Catherine.  I work full-time as a web developer for an agency, do freelance work on the side, and busy myself with a variety of personal projects in my spare time.
+I'm Catherine.  I work full-time as a web developer for an agency, do freelance work on the side, and busy myself with a variety of personal projects in my spare time.  I recently returned to school, and plan to graduate with degrees in Computer Science and Mathematics this year.
 
 #### 📫 How to reach me:
 
